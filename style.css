@@ -71,9 +71,8 @@ li img {
 .img-wrapper {
     width: 150px;
     height: 150px;
-    background-color: white;
     border-radius: 50%;
-    border: 6px solid #45494e;
+    border: 3px solid white;
     padding: 6px;
     margin-bottom: 28px;
 }
@@ -86,7 +85,7 @@ li img {
 }
 
 h1 {
-    color: #536680;
+    color: white;
     font-weight: 600;
     margin-bottom: 8px;
 }
